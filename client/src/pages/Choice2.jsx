@@ -110,108 +110,15 @@ const Choice2 = () => {
       title: "The Avengers and the Curious Case of the Cosmic Critter ",
       description:
         "The Avengers discover a frightened energy-devouring alien and must help it without violence, proving compassion can save the day.",
-      content: `The morning sun streamed through the floor-to-ceiling windows of Avengers Tower, casting geometric patterns of light across the polished floors. The 
-        tower hummed with activity, each Avenger engrossed in their own world. 
-        Tony Stark's workshop was a symphony of mechanical whirring and the sharp 
-        scent of ozone. His fingers danced across a holographic interface as he 
-        muttered equations under his breath. "If I can just recalibrate the repulsor 
-        matrix to account for quantum fluctuations..." A spark erupted from his latest 
-        prototype, causing him to jerk back. "JARVIS, dial down the power output by 
-        12%. And maybe get me another coffee." 
-        In the training facility, Steve Rogers moved with military precision, his muscles 
-        straining as he executed a series of complex maneuvers with his shield. The 
-        vibranium disc sang through the air, ricocheting off three separate targets 
-        before returning to his grasp. His breathing remained steady despite the 
-        exertion, his mind already analyzing potential improvements to his technique. 
-        The kitchen smelled of maple syrup and sizzling bacon as Thor demolished his 
-        fifth stack of pancakes. "These Midgardian wheat cakes are truly a gift!" he 
-        boomed, syrup dripping onto his armored vambraces. Natasha Romanoff, 
-        perched on the counter with a protein shake, arched an eyebrow. "You do 
-        realize normal people stop after, like, two?" 
-        Bruce Banner sat hunched over in the lab, his brow furrowed in concentration. 
-        The holographic display before him showed complex quantum equations that 
-        would make most physicists weep. A slight tremor ran through the floor as he 
-        erased a particularly stubborn calculation a bit too forcefully. "Easy, big guy," 
-        he murmured to himself, adjusting his glasses. 
-        The peaceful morning was shattered when the tower's emergency lights 
-        flashed crimson. 
-        JARVIS's voice cut through the sudden tension. "Priority alert: Massive energy 
-        fluctuations detected citywide. Power grid integrity at 43% and falling." 
-        Tony's head snapped up from his workbench. "What? That's impossible. Show 
-        me." A holographic projection of Manhattan materialized, pulsing with erratic 
-        energy signatures. Entire blocks were going dark in real-time, like candles 
-        being snuffed out one by one. 
-        Steve was already moving toward the command center, his shield mag-locked 
-        to his back. "Talk to me, Stark. What are we dealing with?" 
-        Outside, the city was descending into chaos. Traffic lights blinked out, causing 
-        a symphony of car horns as intersections became gridlocked. The glowing signs 
-        of Times Square flickered and died, plunging the iconic crossroads into eerie 
-        darkness. Office workers streamed out of skyscrapers as elevators stalled 
-        between floors. 
-        Bruce's fingers flew across a keyboard. "This isn't a normal blackout. The 
-        energy isn't just disappearing—it's being actively drained." 
-        Thor's grip tightened on Mjolnir. "By what manner of sorcery?" 
-        Tony's faceplate snapped into place as his armor assembled around him. 
-        "Whatever it is, it's heading straight for the ConEd power station. If it reaches 
-        those main generators..." 
-        Steve didn't need him to finish. "Then we move. Now." 
-        Iron Man shot through the tower's launch bay like a crimson-and-gold missile, 
-        repulsors flaring as he banked hard toward downtown. Below him, the Hulk's 
-        thunderous leaps sent shockwaves through the streets, each bound covering 
-        entire city blocks. 
-        Steve swung onto a waiting motorcycle, the specialized Avengers vehicle 
-        roaring to life between his legs. "Nat, Clint—we need you on crowd control. 
-        These streets are turning into a warzone." 
-        "On it," Natasha's voice crackled through the comms as she and Hawkeye 
-        headed for the worst of the traffic snarls. 
-        Thor spun Mjolnir with increasing speed, the air crackling with ozone as he 
-        prepared to launch himself skyward. "To battle, my friends!" 
-        As they neared the power station, the scale of the crisis became apparent. The 
-        entire facility was wreathed in an eerie blue glow, transformers sparking 
-        violently as something siphoned their energy. 
-        Tony's scanners went wild. "Energy readings are off the charts! Whatever's in 
-        there, it's feeding like there's no tomorrow." 
-        The interior of the power station was a nightmare of arcing electricity and 
-        failing machinery. At the heart of the main generator complex, a swirling 
-        vortex of pure energy pulsed hungrily, its metallic tendrils buried deep in the 
-        power conduits. 
-        Hulk roared, his massive fists clenching. "Hulk smash energy thief!" 
-        "Wait!" Bruce's voice emerged, struggling for control. "Look—it's not attacking. 
-        It's... scared." 
-        As the Avengers watched, the energy vortex shimmered and contracted, 
-        revealing a small, trembling creature at its core. No larger than a housecat, its 
-        body was composed of shifting plasma strands that flickered between blue and 
-        gold. Huge, luminous eyes blinked up at them from a face that seemed more 
-        curious than hostile. 
-        The creature let out a plaintive hum that vibrated through the metal floor 
-        plates. 
-        Steve slowly lowered his shield. "It's not a weapon. It's just... hungry." 
-        Thor's normally booming voice softened. "A youngling of the cosmic storms, 
-        separated from its kind." 
-        Tony's faceplate retracted as he knelt cautiously. "Hey there, little guy. You're 
-        a long way from home, aren't you?" 
-        Bruce's scientific curiosity overcame his caution. "It's not malicious—it's a 
-        naturally occurring energy-based lifeform. Probably got stranded here by some 
-        dimensional rift." 
-        Tony was already modifying a portable arc reactor. "If it's just looking for a 
-        meal..." He activated the device, its blue glow pulsing steadily. 
-        The creature's tendrils twitched with interest. It detached from the main 
-        generators with a sound like tearing Velcro and floated toward the offered 
-        energy source. As it began to feed, its erratic pulses stabilized into a calm, 
-        rhythmic glow. 
-        Steve exhaled in relief as the city's lights began flickering back to life outside. 
-        "Fury's gonna love this report." 
-        Natasha's voice came through the comms. "You boys done playing alien vet? 
-        We've got a city to put back together." 
-        Tony grinned as the creature curled contentedly around the reactor. "JARVIS, 
-        prep the quinjet. We've got a cosmic puppy to return to its dimension." 
-        As they walked out, Thor clapped Tony on the back hard enough to make the 
-        armor clang. "A fine day's work, Stark! Though I confess, I expected more 
-        smashing." 
-        Bruce adjusted his glasses, smiling. "Sometimes the strongest thing you can do 
-        is show a little compassion." 
-        And with that, the Avengers headed home—having saved the day not with fists 
-        or repulsor blasts, but with understanding and a well-timed energy snack.`,
+      content: `The sun glittered off the sleek, modern walls of Avengers Tower in New York City. Inside, it was a typical busy day for the world's mightiest heroes. Iron Man (Tony Stark) was tinkering with a new invention, sparks flying from his workbench. Captain America (Steve Rogers) was methodically training in the gym, his shield glinting. Thor was enjoying a huge platter of Earthly breakfast, much to everyone's amusement. And Hulk (Bruce Banner) was quietly trying to solve a complex equation, though a tremor went through the floor with every focused frown.
+
+        Suddenly, an alarm blared – not a villain alert, but a strange, fluctuating hum from the main power grid. Jarvis, Tony's AI, spoke with urgency. "Sir, we have an inexplicable energy drain. All major power sources across the city are experiencing intermittent failure. It's... unprecedented." Outside the tower, the bustling city began to falter. Traffic lights flickered and died, causing chaos. Skyscrapers went dark, their bright windows dimming like dying embers. People on the streets looked up, bewildered and worried, as their phones went dead and public transport ground to a halt. "This isn't a blackout," Captain America stated, his voice grim. "This is something draining the power, systematically."
+
+        Tony quickly analyzed the energy signatures. "It's not a short circuit, or a natural phenomenon. This energy signature is... alien. And it's moving, absorbing power as it goes!" "Then we find what feeds on energy," Thor boomed, Mjolnir appearing in his hand. "And we make it answer for its theft!" Iron Man, suited up and flying, used his advanced scanners to pinpoint the anomaly's path. It was heading towards the city's main power station, a massive facility that supplied power to millions. If it reached there, the entire Eastern Seaboard could go dark. Hulk, with his incredible strength, leaped across rooftops, covering ground quickly. Captain America rode alongside in a specialized Avengers vehicle, ready to coordinate. The race was on to stop this mysterious energy thief.
+
+        They arrived at the power station to find a bizarre sight. In the heart of the main generator complex, a shimmering, swirling vortex of pure energy pulsed. It hummed with an unnatural glow, drawing in power lines like hungry tentacles. Strange, metallic tendrils extended from the vortex, sucking the electricity directly from the generators. "It's a parasitic energy siphon!" Tony yelled over the crackle of draining power. "It's consuming the city's lifeblood!" But as they prepared for battle, a small, scared-looking creature with glowing eyes and soft, fur-like tendrils slowly emerged from the core of the vortex. It looked lost, not menacing, and whimpered softly as the energy pulsed around it.
+
+        "Wait," Captain America called out, seeing the creature's fear. "It's not attacking, it's... scared. It just seems to be incredibly hungry for energy, and it found the biggest meal!" Thor, surprisingly gentle, lowered Mjolnir. "A lost hatchling, perhaps, seeking sustenance." Iron Man quickly re-calibrated a portable energy cell. "I can't stop it from feeding, but maybe I can give it something else to snack on that won't destroy the city!" He activated the cell, and its contained energy hummed invitingly. The creature, sensing the new energy source, gently detached from the main generators and cautiously approached the cell. It began to absorb the power, its glowing eyes calming. Once the creature was safely connected to the portable cell and no longer harming the city's power, the Avengers contacted SHIELD for a safe way to return the cosmic critter to its home. The city's lights flickered back on, and the hum of power returned, all thanks to the Avengers who knew that sometimes, even the biggest threats needed a gentle hand, not just a mighty punch.`,
       cover:
         "img/avengers.jpg",
       genre: "Science Fiction",
