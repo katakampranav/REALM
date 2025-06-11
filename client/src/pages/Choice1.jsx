@@ -37,10 +37,12 @@ const Choice1 = () => {
     { value: "mystery", label: "Mystery" },
     { value: "romance", label: "Romance" },
     { value: "scifi", label: "Science Fiction" },
+    { value: "horror", label: "Horror" },
   ];
 
   const toneOptions = [
     { value: "cheerful", label: "Cheerful" },
+    { value: "scary", label: "Scary" },
     { value: "mysterious", label: "Mysterious" },
     { value: "dramatic", label: "Dramatic" },
     { value: "humorous", label: "Humorous" },
