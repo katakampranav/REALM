@@ -35,7 +35,7 @@ The final story is generated with vivid illustrations and can be downloaded as a
 
 | Category         | Tech Used                                                                                |
 | ---------------- | ---------------------------------------------------------------------------------------- |
-| Frontend         | ReactJS + GSAP Animations                                                                |
+| Frontend         | ReactJS, Tailwind CSS + GSAP Animations                                                                |
 | Backend          | Flask (modular with controller/route logic)                                              |
 | Image Captioning | [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base) or OpenRouter |
 | LLMs for Text    | [Gemini Pro API](https://aistudio.google.com/prompts/new_chat)                                                 |
