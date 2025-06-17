@@ -1,4 +1,4 @@
-# REALM AI-Powered Virtual Storytelling Platform
+<h1 align="center">REALM AI-Powered Virtual Storytelling Platform</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dc247cdd-8cc6-442a-8b45-8089fe70fd7b" alt="Logo" width="300"/>
