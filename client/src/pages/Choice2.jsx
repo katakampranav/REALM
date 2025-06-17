@@ -212,21 +212,62 @@ const Choice2 = () => {
     },
     {
       id: "story4",
-      title: "Naruto and the Legend of the Whispering Woods",
+      title: "Loki : The God Who Fell Upwards",
       description:
-        "When Team Seven investigates eerie whispers in a mystical forest, Naruto must tame a volatile chakra entity not with force, but by forging a bond of understanding—proving true power lies in harmony.",
-      content: `The sun blazed over the Hidden Leaf Village, casting sharp shadows across the training grounds where Team Seven gathered. Naruto Uzumaki bounced on his heels, his orange jumpsuit a blur of restless energy. "An A-rank mission!" he crowed, punching the air. "Finally, something exciting!" Sakura Haruno adjusted her forehead protector with a sigh, while Sasuke Uchiha leaned against a tree, his dark eyes scanning the horizon with detached interest. Their sensei, Kakashi Hatake, materialized beside them in a swirl of leaves, his ever-present book tucked away for once. He unrolled a mission scroll with deliberate slowness. "Reports indicate abnormal chakra fluctuations deep in the Whispering Woods. Our job is to investigate—and neutralize any threats." Naruto's stomach growled loudly, cutting through the tension. "Can we wrap this up before lunch? Ichiraku's new miso ramen is calling my name!"
-
-        The forest lived up to its name the moment they crossed the tree line. Ancient oaks towered overhead, their leaves whispering secrets to one another in a language just beyond comprehension. The air hummed with energy, thick and sweet like honey, making the hairs on Sakura's arms stand on end. A faint, crystalline chime echoed through the woods, seeming to come from everywhere and nowhere at once. Sasuke's Sharingan flickered to life, scanning for traps or genjutsu, but found only the eerie beauty of the forest itself. Kakashi held up a fist, signaling the team to halt. "This chakra signature... it's unlike anything I've felt before," he murmured, his visible eye narrowing. Even Naruto, usually so brash, found himself speaking in hushed tones as if the very trees were listening. The melodic sound wove through the undergrowth, pulling them deeper into the heart of the woods.
-
-        They emerged into a clearing where time itself seemed to stand still. At its center stood a weathered stone shrine, moss creeping up its sides, and above it hovered a swirling orb of pure chakra. It pulsed like a living thing, its colors shifting from emerald green to sapphire blue, casting prismatic light across the mossy ground. The whispers of the forest coalesced into a wordless, haunting song that resonated in their bones. But as they watched, the orb began to expand violently, its light flaring like a miniature sun. The ground trembled, and the trees groaned as if in pain. Sakura's medical training kicked in instantly. "That much unstable chakra could tear the forest apart!" she shouted over the rising wind. Sasuke reacted first, his hands flying through familiar seals. "Fire Style: Fireball Jutsu!" The flames roared toward the orb—only to be absorbed, making the chaotic energy swell even larger. Kakashi's hand crackled with Raikiri, but he hesitated. "Wait! It's not attacking us—it's lost."
-
-        Naruto's blue eyes widened with sudden understanding. Memories flashed through his mind—Kurama's rage, his own struggles to control the Nine-Tails' power. "It's like me when I was a kid," he realized aloud. "All that energy with nowhere to go!" Before anyone could stop him, he stepped forward, arms outstretched. Instead of attacking, he closed his eyes and reached out with his chakra, not to suppress, but to listen. The Kyuubi's power stirred within him, not as a weapon, but as a bridge. Slowly, painstakingly, his golden chakra began to weave into the orb's wild patterns, matching its rhythm like a dancer finding the beat. The orb's violent pulsing eased, its light softening as if exhaling in relief. Bit by bit, it shrank until it rested gently in Naruto's palm, no larger than a pebble yet humming with immense, now-stable power.
-
-        Kakashi's visible eye crinkled in a rare, full smile. "Not bad, Naruto. That was Hokage-level thinking." Sasuke gave a grudging nod, while Sakura grinned proudly. The forest around them sighed, the whispers fading into contented silence. As they made their way back to the village, the strange orb safely sealed in a scroll, Naruto couldn't resist a cheeky grin. "Bet even ramen won't taste as good as that victory!" But as the setting sun painted the trees gold, Team Seven knew they'd encountered something far more profound than a mission—a reminder that true strength often lay in harmony, not force.`,
+        "The journey of Loki, from a forgotten son and master trickster to the selfless guardian of the multiverse — the God of Stories.",
+      content: `In the golden spires of Asgard, two princes played under Odin's gaze — Thor, the thunderer, and Loki, the sly.
+              Thor wrestled beasts; Loki read ancient runes. One roared. The other whispered.
+              But Loki felt the cracks early — the way eyes slid past him toward his brother.
+              He mastered magic to compete with muscle. Illusions, lies, and schemes — his silent arsenal.
+              He smiled in public, sulked in shadows. Praise was Thor’s birthright; Loki, only a footnote.
+              Then came the revelation: he was not Odin’s son, but Laufey’s — a Frost Giant left to die.
+              Odin had raised him not from love, but to keep peace with his enemies.
+              The truth shattered Loki like ice beneath a hammer.
+              If he was never truly loved… then why follow their rules?
+              That night, a prince began to fade — and a villain took root.
+              Loki’s plan was swift and bold — seize Asgard’s throne while Thor was banished.
+              But lies unravel faster than magic. Loki fell — not to death, but into the void.
+              And in that emptiness, a greater shadow loomed: Thanos.
+              The Mad Titan offered Loki what he craved: purpose. Power. Earth as a prize.
+              Armed with the scepter and alien armies, Loki descended upon New York.
+              But the world had heroes — the Avengers — and they shattered his dream.
+              Defeated and chained, he returned to Asgard — not as a prince, but as a prisoner.
+              His name was cursed. His heart? Conflicted.
+              Even in failure, Loki kept scheming. Yet deep down, he was still searching…
+              For meaning. For identity. For himself.
+              Loki mourned the only one who truly loved him — Frigga, his mother.
+              He helped Thor avenge her, only to fake his death once again.
+              Disguised as Odin, Loki ruled Asgard in secret. Strangely… he ruled well.
+              Peace, poetry, and plays about himself — vanity hiding vulnerability.
+              But nothing lasts. Ragnarok arrived, and Hela returned — the Goddess of Death.
+              Side by side with Thor, Loki fought for Asgard, for the people he once scorned.
+              In the escape, he chose life over power — helping the weak flee destruction.
+              He wasn’t just the God of Mischief anymore.
+              But peace is a short tale in Loki’s saga.
+              Thanos returned. And this time… Loki stood tall.
+              Aboard the refugee ship, Loki faced Thanos — again.
+              No illusions. No escape. Just defiance.
+              He offered his life for Thor’s. And then, one last trick — a hidden dagger.
+              Thanos caught it. And broke Loki’s neck like it was nothing.
+              "You will never be a god," Loki whispered.
+              And then… silence. The Trickster was dead.
+              But gods do not end — not always.
+              In another thread of time, another Loki escaped with the Tesseract.
+              The TVA caught him — showed him everything: his life, his death, and every lie.
+              His glorious purpose? A cosmic joke.
+              In the TVA’s halls, Loki met Sylvie — another version of himself.
+              Together, they shattered time and hunted truth.
+              He saw what unchecked chaos would do. The multiverse trembled.
+              For once, Loki made a choice not for gain — but for everyone.
+              He let Sylvie go. He let the future go.
+              And in the end, he took the burden himself — holding the threads of time.
+              He sits now at the edge of forever, alone but resolute.
+              Not as a villain. Not as a king.
+              But as a guardian of stories, of timelines, of hope.
+              He is Loki. The one who fell… and then rose beyond gods.`,
       cover:
-        "img/naruto.jpg",
-      genre: "Adventure",
+        "img/loki.jpg",
+      genre: "Mythological Superhero Drama",
       author: "Masashi Kishimoto",
     },
     {
