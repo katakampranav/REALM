@@ -145,8 +145,8 @@ katakampranav-realm/
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/storytelling-platform.git
-cd storytelling-platform
+git clone https://github.com/katakampranav/REALM
+cd REALM
 ```
 
 ### Setup Backend
@@ -173,6 +173,8 @@ GEMINI_API_KEY=your_gemini_key
 TOGETHER_AI_API_KEY=your_together_key
 IMGBB_API_KEY=your_imgbb_key
 ```
+
+### Add the inswapper_128.onnx file to controllers folder in the server
 
 ---
 
