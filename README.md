@@ -1,5 +1,9 @@
 # REALM AI-Powered Virtual Storytelling Platform
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc247cdd-8cc6-442a-8b45-8089fe70fd7b" alt="Logo" width="300"/>
+</p>
+
 > Create personalized stories from your own images, or see yourself as the hero in magical narratives — powered by LLMs, image generation, and face swapping!
 
 ---
