@@ -55,83 +55,6 @@ The final story is generated with vivid illustrations and can be downloaded as a
 
 ---
 
-## Project Structure
-
-```
-katakampranav-realm/
-    ├── client/
-    │   ├── README.md
-    │   ├── eslint.config.js
-    │   ├── index.html
-    │   ├── package-lock.json
-    │   ├── package.json
-    │   ├── postcss.config.js
-    │   ├── public - Shortcut.lnk
-    │   ├── tailwind.config.js
-    │   ├── vite.config.js
-    │   ├── .gitignore
-    │   ├── public/
-    │   │   ├── audio/
-    │   │   ├── fonts/
-    │   │   │   ├── circularweb-book.woff2
-    │   │   │   ├── general.woff2
-    │   │   │   ├── robert-medium.woff2
-    │   │   │   ├── robert-regular.woff2
-    │   │   │   └── zentry-regular.woff2
-    │   │   ├── img/
-    │   │   │   ├── bahubali.webp
-    │   │   │   ├── contact1.webp
-    │   │   │   ├── option-1.webp
-    │   │   │   ├── option-2.webp
-    │   │   │   ├── swordman-partial.webp
-    │   │   │   ├── swordman.webp
-    │   │   │   ├── test.webp
-    │   │   │   └── WEBSITE-LOGO.webp
-    │   │   └── videos/
-    │   └── src/
-    │       ├── App.jsx
-    │       ├── index.css
-    │       ├── main.jsx
-    │       ├── assets/
-    │       ├── components/
-    │       │   ├── About.jsx
-    │       │   ├── AnimatedTitle.jsx
-    │       │   ├── Button.jsx
-    │       │   ├── Contact.jsx
-    │       │   ├── CreateStory.jsx
-    │       │   ├── Features.jsx
-    │       │   ├── Hero.jsx
-    │       │   ├── Navbar.jsx
-    │       │   ├── Option1.jsx
-    │       │   ├── Option2.jsx
-    │       │   └── VideoPreview.jsx
-    │       └── pages/
-    │           ├── Choice1.jsx
-    │           ├── Choice1Story.jsx
-    │           ├── Choice2.jsx
-    │           └── Choice2Story.jsx
-    └── server/
-        ├── app.py
-        ├── config.py
-        ├── requirements.txt
-        ├── .gitignore
-        ├── controllers/
-        │   ├── face_swapping.py
-        │   ├── generate_image.py
-        │   ├── image_captioning.py
-        │   ├── prompt_builder.py
-        │   ├── scene_splitter.py
-        │   ├── story_generation.py
-        │   ├── text_extractor.py
-        │   └── top_characters_recognition.py
-        └── routes/
-            ├── character_route.py
-            ├── face_swapping_story_route.py
-            └── image_to_story_route.py
-```
-
----
-
 ## How It Works
 
 ### Option 1: Image-Based Story Creation
@@ -167,6 +90,16 @@ cd REALM
 #### Create a virtual environment(venv)
 
 ```bash
+
+For Windows: 
+python -m venv venv
+venv/scripts/activate
+
+For Mac:
+python3 -m venv venv
+source venv/bin/activate
+
+then,
 pip install -r requirements.txt
 python app.py
 ```
