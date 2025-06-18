@@ -7,6 +7,15 @@
 > Create personalized stories from your own images, or see yourself as the hero in magical narratives — powered by LLMs, image generation, and face swapping!
 
 ---
+### Before exploring the project, please check out the project demo. This will give you a better understanding of the experience.
+
+In the "Pick to Tale" section, I selected four different images and created an imaginary story around them.
+
+In the "Hero Time – Face Swapping" section, I used a Superman story and swapped the hero's face with Shah Rukh Khan's for a clearer and more engaging demonstration.
+
+[![Watch this video on YouTube](https://i9.ytimg.com/vi_webp/t04_B9zvcF4/mq2.webp?sqp=CLzjy8IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDEgTyhyMA8=&rs=AOn4CLAm7dV5kbrE6jcXGAgirO90jLn01g)](https://youtu.be/t04_B9zvcF4)
+
+---
 
 ## Overview
 
