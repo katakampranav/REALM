@@ -89,17 +89,20 @@ cd REALM
 
 #### Create a virtual environment(venv)
 
-```bash
-
 For Windows: 
+```bash
 python -m venv venv
 venv/scripts/activate
+```
 
 For Mac:
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 then,
+```bash
 pip install -r requirements.txt
 python app.py
 ```
