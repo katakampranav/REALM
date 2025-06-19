@@ -13,7 +13,9 @@ In the "Pick to Tale" section, I selected four different images and created an i
 
 In the "Hero Time – Face Swapping" section, I used a Superman story and swapped the hero's face with Shah Rukh Khan's for a clearer and more engaging demonstration.
 
-[![Watch this video on YouTube](https://i9.ytimg.com/vi_webp/t04_B9zvcF4/mq2.webp?sqp=CLzjy8IG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDEgTyhyMA8=&rs=AOn4CLAm7dV5kbrE6jcXGAgirO90jLn01g)](https://youtu.be/t04_B9zvcF4)
+Watch This Video on YouTube: 
+
+[![Image](https://github.com/user-attachments/assets/87e953b3-90b7-493e-9999-3c8294a37217)](https://youtu.be/t04_B9zvcF4)
 
 ---
 
